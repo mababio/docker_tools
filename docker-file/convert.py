@@ -30,5 +30,4 @@ def convert():
 
    for timecode in conv:
       print("Converting (%f) ...\r" % timecode)
-
 convert()
